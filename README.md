@@ -187,6 +187,7 @@ ORDER BY `year`, ranking;
 
 ```
 📦 layoffs-sql-analysis
+ ┣ 📄 layoffs.csv            ← Raw data
  ┣ 📄 data_cleaning_layoffs.sql          ← Step-by-step data cleaning pipeline
  ┣ 📄 exploratory_data_analysis_layoffs.sql  ← 7-section EDA
  ┗ 📄 README.md
