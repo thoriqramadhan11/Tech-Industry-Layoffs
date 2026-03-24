@@ -186,7 +186,7 @@ ORDER BY `year`, ranking;
 ## 📁 Repository Structure
 
 ```
-📦 layoffs-sql-analysis
+📦 Tech-Industry-Layoffs
  ┣ 📄 layoffs.csv            ← Raw dataset
  ┣ 📄 data_cleaning_layoffs.sql          ← Step-by-step data cleaning pipeline
  ┣ 📄 exploratory_data_analysis_layoffs.sql  ← 7-section EDA
