@@ -208,8 +208,6 @@ ORDER BY `year`, ranking;
 
 **Muhammad Thoriq Ramadhan**
 📧 thoriq.ramadhan11
-🔗 [LinkedIn Profile]
-💼 [Portfolio Link]
 
 ---
 
