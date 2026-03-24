@@ -207,7 +207,7 @@ ORDER BY `year`, ranking;
 ## 👤 Author
 
 **Muhammad Thoriq Ramadhan**
-📧 thoriq.ramadhan11
+📧 thoriq.ramadhan11@gmail.com
 
 ---
 
