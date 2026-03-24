@@ -187,7 +187,7 @@ ORDER BY `year`, ranking;
 
 ```
 📦 layoffs-sql-analysis
- ┣ 📄 layoffs.csv            ← Raw data
+ ┣ 📄 layoffs.csv            ← Raw dataset
  ┣ 📄 data_cleaning_layoffs.sql          ← Step-by-step data cleaning pipeline
  ┣ 📄 exploratory_data_analysis_layoffs.sql  ← 7-section EDA
  ┗ 📄 README.md
@@ -197,7 +197,7 @@ ORDER BY `year`, ranking;
 
 ## 🚀 How to Run
 
-1. Import the raw `layoffs` dataset into your MySQL database
+1. Import the raw `layoffs.csv` dataset into your MySQL database
 2. Run `data_cleaning_layoffs.sql` first — this creates and populates `layoffs_staging2`
 3. Run `exploratory_data_analysis_layoffs.sql` — all queries reference `layoffs_staging2`
 
